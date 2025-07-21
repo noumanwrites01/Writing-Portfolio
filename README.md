@@ -11,8 +11,8 @@ Here are a few writing samples for your review:
 
 ## 📄 Writing Samples
 
-1. [12 Advanced SEO techniques to boost website traffic in 2024](./SEO-techniques-blog-post.pdf)
-2. [9 Strategic Email Marketing Practices for Higher Conversion Rates](./email-marketing-article.pdf)
+1. [12 Advanced SEO techniques to boost website traffic in 2024](./SEO-techniques-blog-post)
+2. [9 Strategic Email Marketing Practices for Higher Conversion Rates](./email-marketing-article)
 3. [Pimeyes AI Finder review article](./AI-tool-rewiew-article-1.pdf)
 4. [Dubverse AI review article](./AI-tool-rewiew-article-2.pdf)
 5. [AI Portraits Org review article](./AI-tool-rewiew-article-3.pdf)
